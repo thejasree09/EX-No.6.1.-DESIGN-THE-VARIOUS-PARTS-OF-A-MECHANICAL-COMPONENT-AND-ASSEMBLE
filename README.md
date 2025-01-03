@@ -62,7 +62,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 #### ASSEMBLED VIEW
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
-## OUTPUT:![image](https://github.com/user-attachments/assets/712fc8e3-ccf1-4fd6-b248-71424645ea49)
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/712fc8e3-ccf1-4fd6-b248-71424645ea49)
 
 
 ## RESULT:
